@@ -106,3 +106,4 @@ venv.bak/
 1.Tensorflow/dataset/
 2.model/model
 2.model/mode
+3.CNN/model
